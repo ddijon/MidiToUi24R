@@ -1,0 +1,3 @@
+IPaddress=192.168.1.20
+BSID=Home_wireless
+password=test
